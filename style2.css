@@ -1,0 +1,67 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    
+
+}
+section
+{
+    padding: 0 100px;
+    background-image: url(background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box
+{
+    position: relative;
+    max-width: 1500px;
+    padding: 50px;
+    background:rgba(255,255,255,.5);
+    border: 5px solid black;
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+.box h1
+{
+    text-align: center;
+    margin: 0 70px 20px;
+    padding: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    color: black
+}
+.box p
+{
+    margin: 0 0px 70px;
+    padding: 0;
+    font-size: 80px;
+    color: black
+}
+img
+{
+    margin-left: 110px;
+    margin-right: 5px ;
+    width: 200px;
+    border: 5px solid black;
+}
+a
+{
+    margin-left: 79px;
+    margin-right:85px;
+    font-size: 30px;
+}
+.box p1
+{
+    margin-left: 362px;
+    margin-right: 80px;
+}
+a.Tanjiro
+{
+    font-family: 'Times New Roman';
+    margin-left: 470px;
+    margin-right: 50px;
+}
